@@ -1,0 +1,14 @@
+D:\upper-computer-learning\upper-computer-learning\bin\Debug\net8.0\upper-computer-learning.exe
+D:\upper-computer-learning\upper-computer-learning\bin\Debug\net8.0\upper-computer-learning.deps.json
+D:\upper-computer-learning\upper-computer-learning\bin\Debug\net8.0\upper-computer-learning.runtimeconfig.json
+D:\upper-computer-learning\upper-computer-learning\bin\Debug\net8.0\upper-computer-learning.dll
+D:\upper-computer-learning\upper-computer-learning\bin\Debug\net8.0\upper-computer-learning.pdb
+D:\upper-computer-learning\upper-computer-learning\obj\Debug\net8.0\upper-computer-learning.GeneratedMSBuildEditorConfig.editorconfig
+D:\upper-computer-learning\upper-computer-learning\obj\Debug\net8.0\upper-computer-learning.AssemblyInfoInputs.cache
+D:\upper-computer-learning\upper-computer-learning\obj\Debug\net8.0\upper-computer-learning.AssemblyInfo.cs
+D:\upper-computer-learning\upper-computer-learning\obj\Debug\net8.0\upper-computer-learning.csproj.CoreCompileInputs.cache
+D:\upper-computer-learning\upper-computer-learning\obj\Debug\net8.0\upper-computer-learning.dll
+D:\upper-computer-learning\upper-computer-learning\obj\Debug\net8.0\refint\upper-computer-learning.dll
+D:\upper-computer-learning\upper-computer-learning\obj\Debug\net8.0\upper-computer-learning.pdb
+D:\upper-computer-learning\upper-computer-learning\obj\Debug\net8.0\upper-computer-learning.genruntimeconfig.cache
+D:\upper-computer-learning\upper-computer-learning\obj\Debug\net8.0\ref\upper-computer-learning.dll
